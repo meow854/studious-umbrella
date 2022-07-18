@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(rgb(89, 166, 197), rgb(31, 69, 93));
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 898px;
+}
+#btndiv{
+    text-align: right;
+}
+#logoutbtn{
+    margin-top: 20px;
+    margin-right: 30px;
+    height: 35px;
+    width: 100px;
+}
+#logout{
+    height: 30px;
+}
+p{
+    font-size: 40px;
+    color: rgb(51, 104, 122);
+    margin-top: 100px;
+}
+span{
+    text-align: center;
+}
+#roomnamediv{
+    width: 300px;
+    text-align: center;
+    margin-left: 770px;
+}
+#addroombtn{
+    width: 150px;
+}
+#rooms{
+    padding: 15px;
+    width: 70%;
+    background: rgba(226, 226, 226, 0.767);
+    border-radius: 20px;
+    margin-left: 270px;
+    margin-top: 50px;
+}

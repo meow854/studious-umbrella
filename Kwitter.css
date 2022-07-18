@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(#014985, #a6e0ff);
+    max-height: max-content;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#word{
+    color: white;
+}
+div{
+    margin-top: 100px;
+    height: 300px;
+}
+#div{
+    margin-top: -50px;
+    width: 400px;
+    text-align: center;
+}
+#adduserbtn{
+    width: 250px;
+}
+#wer{
+    border-radius: 100px;
+    height: 100px;
+}
+#uneeded{
+    width: 70%;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    border-color: black;
+    border-width: 3px;
+    padding: 10px;
+}
